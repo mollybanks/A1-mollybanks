@@ -17,8 +17,12 @@
 * This assignment has **two parts** and is worth **34** points, as indicated in requirements below.
 * Partial points can be awarded.
 * All writing should be clear, concise, interesting, and free of spelling and grammatical errors.
+* **Please note:** This assignment should be completed _individually_.
 
-**Please note:** This assignment should be completed _individually_.
+### Notes on Professional Practice
+1. **Get Started Earlier**. For any coding project, it is very important to get started earlier.
+1. **Plan Your Work**. Before starting to design or code, read all of the requirements of this assignment, draw some sketches, and create a todo list of the steps you need to follow. It is almost always a good idea to do a bit of planning before starting to design or code.
+1. **Communicate with Your TA**. If you find a requirement of this assignment _ambiguous_, you should ask your Teaching Assistant or post a question on Teams. The requirements of this assignment are intended to be clear and _unambiguous_, but, in general, this is very difficult to achieve. If something is unclear, always reach out to your teaching assistant (or  project manager or team member).
 
 ### Learning Objectives
 1. Demonstrate how to navigate the file system from the command line and manage files, with these and similar commands (see F&R, chap. 2):
@@ -56,16 +60,14 @@ git push
 6. Professional practice: (a) Work closely with requirements; and (b) Reflect on the benefits/costs of planning before doing.
 -->
 
-## Note on Professional Practice
-1. If you find a requirement of this assignment _ambiguous_, that is, unclear, you should ask your Teaching Assistant or post a question on Teams. The requirements of this assignment are intended to be _unambiguous_, but, in general, this is very difficult to achieve. If something is unclear, always **communicate directly** with your teaching assistant (or  project manager or team member).
-1. Before starting to design or code, read all of the requirements of this assignment, draw some sketches, and create a todo list of the steps you need to follow. It is almost always a good idea to do a bit of planning before starting to design or code. *Reflect*: What are the costs and benefits of planning?
+
 
 ## Part I: The Command Line [15 points]
-**Step #1**: In your directory, you will find a file named ``git-commands.md``. Open the file with Atom, our text editor.  
+**Step #1**: In your directory, you will find a file named ``git-commands.md``. Open the file with Atom, which is our text editor.  
 
 **Step #2**: Following each prompt in the file ``git-commands.md``, write the line of code that you used to accomplish the task or otherwise answer the question.
 
-**Step #3**; Save the changes to you've made to ``git-commands.md`` and then add, commit, and push your changes to GitHub.
+**Step #3**: Save the changes to you've made to ``git-commands.md`` and then add, commit, and push your changes to GitHub.
 
 **Note**: After completing this assignment, you can continue to add commands to this file and use it as a reference for your own work.
 
@@ -74,28 +76,26 @@ git push
 In Part II, you will create a report in Markdown.
 
 ### 1. Background
-Please scan all the chapters in D'lgnazio & Kline (2020). You will find many different types of data visualizations. Some types will be quite familiar to you - see, for example, the bar charts in chapter 6. Others might be new or unusual, such as the iceberg in chapter 7.
-
-Spend **ten minutes** or more flipping through the book, looking at the visualizations.
+Please spend **ten minutes** or more scanning all the chapters in D'lgnazio & Kline (2020). You will find many different types of data visualizations. Some types will be quite familiar to you - see, for example, the bar charts in chapter 6. Others might be new or unusual, such as the iceberg in chapter 7.
 
 ### 2 Find Two Data Visualizations on the Internet
-Browse the web and find two data visualizations that are **meaningful** to you. You might start, for example, at the *New York Times* or *Washington Post* or other news source but any scientific, cultural, government, or commercial institution website in the U.S. or beyond is just fine.
+Browse the web and find two data visualizations that are **meaningful** to you. You might start, for example, at the [*New York Times*](http://nytimes.com) or [*Washington Post*](https://www.washingtonpost.com/) or other news source but any scientific, cultural, government, or commercial institution website in the U.S. or beyond is just fine.
 
 As you consider possible data visualizations, consider the following questions, which come from  D'lgnazio & Kline (2020, chap. 1):
 1. **Who**: Who or what institution produced the visualization?
 1. **Date**: When was it produced?
-1. **Stakeholders**: Who is the audience for the visualization? And, who might impacted or implicated, either directly or indirectly, by the visualization?
+1. **Stakeholders**: Who is the audience for the visualization? And, who might be impacted, either directly or indirectly, by the visualization?
 1. **Interests**: What values, goals, or interests are at stake with the visualization?
 1. **Key facts**: What can be learned from the visualization?
-1. **Power**: What issues, if any, are related to power?
+1. **Power**: What issues, if any, are related to power are reflected in the data visualization?
 
 **Note**: It may be difficult to answer these questions. That is okay. But, try as best as you can to formulate specific answers.
 
-Once you have examined your two visualizations  from a **Data Feminism** viewpoint, you need to select **one** of your visualizations as primary; the other visualization will be secondary. Now, you are ready to start coding (see next section).
+Once you have examined your two visualizations from a **Data Feminism** viewpoint, you need to select **one** of your visualizations as primary; the other visualization will be secondary. Now, you are ready to start coding (see next section).
 
 ### 3 Coding: Your Technical Requirements
 
-Your objective is to create a report that presents your research and analysis. You will write your report using Markdown, which is a simple computer language for formatting text.
+Your objective is to create a report that presents your research and analysis. You will write your report using Markdown, which is a computer language for formatting text.
 
 As you code with Markdown tags, please seek to create a professional visual appearance.
 
@@ -110,7 +110,7 @@ As you code with Markdown tags, please seek to create a professional visual appe
 1. Create a new directory, named "a0-visualizations", within the "Images" directory. [1 point]
 1. Put an image of the your primary visualization in this directory. [1 point]
 
-#### 3.3 Your Report Material [12 points]
+#### 3.3 Your Report [12 points]
 
 First, your report should include a brief paragraph that summarizes what you did in your own words (about 100 words). In this paragraph you should name and link to both the **primary** and **secondary** data visualizations.  [4 points]
 
@@ -125,7 +125,7 @@ Third, for the primary data visualization, write  short responses after each of 
 **Interests**: xxx ([a short paragraph, 50 words or less [1 point])
 **Key fact**: xxx (a short paragraph, 50 words or less [1 point])
 ```
-Forth, and finally, conclude your report with a brief reflection (about 100 words), titled, "Data Feminism: What I Learned?" In this section, first, give a definition of data feminism from D'lgnazio & Kline (2020) and, second, briefly write on what you learned by doing this assignment [2 points])
+Forth, and finally, conclude your report with a brief reflection (about 100 words), titled, "Data Feminism: What I Learned?" In this section, first, give a definition of data feminism from D'lgnazio & Kline (2020) and, second, briefly discuss what you learned by doing this assignment [2 points])
 
 #### 3.3 Coding requirements [10 points total]
 In your report **MUST** use at each of these elements at least once:

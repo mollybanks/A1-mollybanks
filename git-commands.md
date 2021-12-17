@@ -1,13 +1,7 @@
 # a0: Basic Tools: Part I: Command Line
 
 # Git Commands
-The purpose of this file is for you to demonstrate your knowledge of working with the terminal. Following each prompt below, write the line of code that you used on the terminal to accomplish the task. You can then use this file as a reference for your own work. A total of 15 points is available in part I:
-
-<<<<<<< HEAD
-The first task has been done for you!
-=======
-The first task has been done for you! (Check your understanding: What does pwd do?)
->>>>>>> 959516f77488b6706e7056693451e8aae1c92f18
+The purpose of this file is for you to demonstrate your knowledge of working with the terminal. Following each prompt below, write the line of code that you used on the terminal to accomplish the task. You can then use this file as a reference for your own work. A total of 15 points is available.
 
 ```bash
 # Print your working directory [1 point]

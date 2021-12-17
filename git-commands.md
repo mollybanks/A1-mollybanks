@@ -1,7 +1,7 @@
 # a0: Basic Tools: Part I: Command Line
 
 # Git Commands
-The purpose of this file is for you to demonstrate your knowledge of working with the terminal. Following each prompt below, write the line of code that you used on the terminal to accomplish the task. You can then use this file as a reference for your own work. A total of 15 points is available:
+The purpose of this file is for you to demonstrate your knowledge of working with the terminal. Following each prompt below, write the line of code that you used on the terminal to accomplish the task. You can then use this file as a reference for your own work. A total of 15 points is available in part I:
 
 The first task has been done for you!
 

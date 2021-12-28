@@ -6,21 +6,23 @@
 
 ### Preparation
 1. Please read: D'lgnazio & Kline (2020), the Introduction and chapter 1.
-1. Please read: Freeman & Ross (2019), chapters 3 and 4.
+1. Please read: Freeman & Ross (2019), chapters 1-4.
 1. Download and install [Atom](https://atom.io/).
 2. Download and install [Git](https://git-scm.com/).
 3. Sign-up for a [GitHub](https://github.com/) user account.
-4. Download and install [R](https://cran.r-project.org/) (optional for this assignment).
-5. Download and install [RStudio](https://www.rstudio.com/) (optional for this assignment).
+4. Download and install [R](https://cran.r-project.org/) (optional for this assignment but do it now).
+5. Download and install [RStudio](https://www.rstudio.com/) (optional for this assignment but do it now).
 
+<!--
 ### Notes on grading
 * This assignment has **two parts** and is worth **34** points, as indicated in requirements below.
 * Partial points can be awarded.
 * All writing should be clear, concise, interesting, and free of spelling and grammatical errors.
 * **Please note:** This assignment should be completed _individually_.
+-->
 
 ### Notes on Professional Practice
-1. **Get Started Earlier**. For any coding project, it is very important to get started earlier.
+1. **Get Started Early**. For any coding project, it is very important to get started earlier because unwelcome surprises often arise.
 1. **Plan Your Work**. Before starting to design or code, read all of the requirements of this assignment, draw some sketches, and create a todo list of the steps you need to follow. It is almost always a good idea to do a bit of planning before starting to design or code.
 1. **Communicate with Your TA**. If you find a requirement of this assignment _ambiguous_, you should ask your Teaching Assistant or post a question on Teams. The requirements of this assignment are intended to be clear and _unambiguous_, but, in general, this is very difficult to achieve. If something is unclear, always reach out to your teaching assistant (or  project manager or team member).
 
@@ -53,7 +55,7 @@ git git commit -m "<A MESSAGE>"  # Make changes s
 git push
 ```
 4. Use markdown syntax to format document (see Freeman & Ross, 2019, chap. 4).
-5. Discuss Data Feminism and explain it provides a viewpoint for critically investigating data visualizations
+5. Discuss _Data Feminism_ and explain how it provides a viewpoint for critically investigating data visualizations.
 
 <!--
 5. Consider how data science can be both a **tool** and a **weapon**.
@@ -63,7 +65,9 @@ git push
 
 
 ## Part I: The Command Line [15 points]
-**Step #1**: In your directory, you will find a file named ``git-commands.md``. Open the file with Atom, which is our text editor.  
+In Part I, you will practice working with the command line.
+
+**Step #1**: In your directory, you will find a file named ``git-commands.md``. Open the file with Atom, which is our text editor.
 
 **Step #2**: Following each prompt in the file ``git-commands.md``, write the line of code that you used to accomplish the task or otherwise answer the question.
 
@@ -79,7 +83,7 @@ In Part II, you will create a report in Markdown.
 Please spend **ten minutes** or more scanning all the chapters in D'lgnazio & Kline (2020). You will find many different types of data visualizations. Some types will be quite familiar to you - see, for example, the bar charts in chapter 6. Others might be new or unusual, such as the iceberg in chapter 7.
 
 ### 2 Find Two Data Visualizations on the Internet
-Browse the web and find two data visualizations that are **meaningful** to you. You might start, for example, at the [*New York Times*](http://nytimes.com) or [*Washington Post*](https://www.washingtonpost.com/) or other news source but any scientific, cultural, government, or commercial institution website in the U.S. or beyond is just fine.
+Browse the web and find two data visualizations that are **meaningful** to you. You might start, for example, at the [*New York Times*](http://nytimes.com) or [*Washington Post*](https://www.washingtonpost.com/) or other news source. That said, any scientific, cultural, government, or commercial institution website in the U.S. or beyond is just fine.
 
 As you consider possible data visualizations, consider the following questions, which come from  D'lgnazio & Kline (2020, chap. 1):
 1. **Who**: Who or what institution produced the visualization?
@@ -89,9 +93,9 @@ As you consider possible data visualizations, consider the following questions, 
 1. **Key facts**: What can be learned from the visualization?
 1. **Power**: What issues, if any, are related to power are reflected in the data visualization?
 
-**Note**: It may be difficult to answer these questions. That is okay. But, try as best as you can to formulate specific answers.
+**Note**: It may be difficult to answer these questions. That's okay; nevertheless, try as best as you can to formulate specific answers.
 
-Once you have examined your two visualizations from a **Data Feminism** viewpoint, you need to select **one** of your visualizations as primary; the other visualization will be secondary. Now, you are ready to start coding (see next section).
+Once you have examined your two visualizations from a **Data Feminism** viewpoint, you need to select **one** of them as primary; the other visualization will be secondary. Now, you are ready to start coding (see next section).
 
 ### 3 Coding: Your Technical Requirements
 
@@ -104,13 +108,13 @@ As you code with Markdown tags, please seek to create a professional visual appe
 1. Include your name. (you are the author of the report) [1 point]
 1. Include the date of your report. [1 point]
 
-#### 3.2 File Names and Directory Locations Requirements [4 points]
+#### 3.2 File Names and Directory Requirements [4 points]
 1. The name of the file containing your report should be ``README.md``. [1 point]
 1. The ``README.md`` file containing your report should be located in the root directory of the repository. [1 point]
 1. Create a new directory, named "a0-visualizations", within the "Images" directory. [1 point]
-1. Put an image of the your primary visualization in this directory. [1 point]
+1. Put both your primary and secondary visualizations into this directory. [1 point]
 
-#### 3.3 Your Report [12 points]
+#### 3.3 Your Report: What to include [12 points]
 
 First, your report should include a brief paragraph that summarizes what you did in your own words (about 100 words). In this paragraph you should name and link to both the **primary** and **secondary** data visualizations.  [4 points]
 

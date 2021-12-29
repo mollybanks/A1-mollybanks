@@ -64,7 +64,7 @@ git push
 
 
 
-## Part I: The Command Line [15 points]
+## Part I: The Command Line [10 points]
 In Part I, you will practice working with the command line.
 
 **Step #1**: In your directory, you will find a file named ``git-commands.md``. Open the file with Atom, which is our text editor.
@@ -75,7 +75,7 @@ In Part I, you will practice working with the command line.
 
 **Note**: After completing this assignment, you can continue to add commands to this file and use it as a reference for your own work.
 
-## Part II: Working with Markdown [29 points]
+## Part II: Working with Markdown [35 points]
 
 In Part II, you will create a report in Markdown.
 
@@ -108,19 +108,19 @@ As you code with Markdown tags, please seek to create a professional visual appe
 1. Include your name. (you are the author of the report) [1 point]
 1. Include the date of your report. [1 point]
 
-#### 3.2 File Names and Directory Requirements [4 points]
+#### 3.2 Filenames and Directory Requirements [5 points]
 1. The name of the file containing your report should be ``README.md``. [1 point]
 1. The ``README.md`` file containing your report should be located in the root directory of the repository. [1 point]
 1. Create a new directory, named "a0-visualizations", within the "Images" directory. [1 point]
-1. Put both your primary and secondary visualizations into this directory. [1 point]
+1. Put both your primary and secondary visualizations into this directory. [2 points]
 
-#### 3.3 Your Report: What to include [12 points]
+#### 3.3 Your Report: What to include? [13 points]
 
-First, your report should include a brief paragraph that summarizes what you did in your own words (about 100 words). In this paragraph you should name and link to both the **primary** and **secondary** data visualizations.  [4 points]
+First, your report should include a brief paragraph that summarizes what you did in your own words (about 100 words). In this paragraph you should name and link to both the **primary** and **secondary** data visualizations.  [5 points]
 
 Second, for the primary data visualization, your report should include a description - that is, what specifically does the data visualization show? (about 100 words) [1 point]
 
-Third, for the primary data visualization, write  short responses after each of the headings, shown below. **Please note**: You should replace the `xxx (...)` with your own written response.
+Third, for the primary data visualization, write short responses after each of the headings, shown below. **Please note**: You should replace the `xxx (...)` with your own written response.
 
 ```
 **Who**: xxx (20 words or less [1 point])
@@ -131,19 +131,19 @@ Third, for the primary data visualization, write  short responses after each of 
 ```
 Forth, and finally, conclude your report with a brief reflection (about 100 words), titled, "Data Feminism: What I Learned?" In this section, first, give a definition of data feminism from D'lgnazio & Kline (2020) and, second, briefly discuss what you learned by doing this assignment [2 points])
 
-#### 3.3 Coding requirements [10 points total]
+#### 3.4 Coding Requirements [14 points]
 In your report **MUST** use at each of these elements at least once:
   * A top-level heading (``Header1``) [1 point]
+  * Three or more smaller headings (e.g., ``Header2``) [ 1 point]
   * An unordered list [1 point]
   * **Bold** for emphasis [1 point]
   * _Italics_ for emphasis [1 point]
-  * An image tag to present the primary data visualization. Include the `ALT` tag and descriptive text for screen reader accessibility. (Note: See section 2.3 above)[2 points]
+  * Both ***Bold and Italics*** for emphasis [1 point]
+  * An image tag to present the primary data visualization. Include the `ALT` tag and descriptive text for screen reader accessibility. (Note: See section 2.3 above) [2 points]
   * A blockquote to format the definition of "Data Feminism" [1 point]
-  * Hypertext links to the primary and secondary data visualizations [2  points]
-  * Include an emoji -- e.g., a rocket :rocket: -- in your reflective paragraph (Note: See emoji list: [cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)) [1 point]
-
-### 4. Submitting Your Assignment
-Once you are finished, add, commit, and push all changes to GitHub.
+  * Hypertext links to the websites that contain the primary and secondary data visualizations [2  points]
+  * An emoji -- e.g., a rocket :rocket: -- in your reflective paragraph (Note: See emoji list: [cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)) [1 point]
+  * Include a footnote [2 points]
 
 <!--
 ## Part III: Data Science: Tool for Good or Weapon?

@@ -1,4 +1,4 @@
-# a0: Basic Tools
+# a0: Basic Tools (a)
 ### Readings and Useful Documentation
 * **Freeman & Ross (2019)** Refers to the course textbook, written by Mike Freeman and Joel Ross, *Programming Skills for Data Science: Start Writing Code to Wrangle, Analyze, and Visualize Data with R*, 2019. The book is available [online through the library](https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=CP71294895890001451&context=L&vid=UW&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,programming%20skills%20for%20data%20science).
 * **D'lgnazio & Kline (2020)** Refers to the course textbook, written by Catherine D'lgnazio and Lauren F. Kline, Data Feminism, 2020. The book is available [online at MIT Press](https://data-feminism.mitpress.mit.edu/)

@@ -10,6 +10,7 @@
 1. Download and install [Atom](https://atom.io/).
 2. Download and install [Git](https://git-scm.com/).
 3. Sign-up for a [GitHub](https://github.com/) user account.
+3. Configure git on your computer.
 4. Download and install [R](https://cran.r-project.org/) (optional for this assignment but do it now).
 5. Download and install [RStudio](https://www.rstudio.com/) (optional for this assignment but do it now).
 
@@ -132,7 +133,7 @@ Third, for the primary data visualization, write short responses after each of t
 Forth, and finally, conclude your report with a brief reflection (about 100 words), titled, "Data Feminism: What I Learned?" In this section, first, give a definition of data feminism from D'lgnazio & Kline (2020) and, second, briefly discuss what you learned by doing this assignment [2 points])
 
 #### 3.4 Coding Requirements [14 points]
-In your report **MUST** use at each of these elements at least once:
+In your report you **MUST** use at each of these elements at least once:
   * A top-level heading (``Header1``) [1 point]
   * Three or more smaller headings (e.g., ``Header2``) [ 1 point]
   * An unordered list [1 point]

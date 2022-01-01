@@ -1,11 +1,11 @@
 # a0: Basic Tools  (1)
 ### Readings and Useful Documentation
 * **Freeman & Ross (2019)** Refers to the course textbook, written by Mike Freeman and Joel Ross, *Programming Skills for Data Science: Start Writing Code to Wrangle, Analyze, and Visualize Data with R*, 2019. The book is available [online through the library](https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=CP71294895890001451&context=L&vid=UW&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,programming%20skills%20for%20data%20science).
-* **D'lgnazio & Kline (2020)** Refers to the course textbook, written by Catherine D'lgnazio and Lauren F. Kline, Data Feminism, 2020. The book is available [online at MIT Press](https://data-feminism.mitpress.mit.edu/)
+* **D'lgnazio & Klein (2020)** Refers to the course textbook, written by Catherine D'lgnazio and Lauren F. Klein, Data Feminism, 2020. The book is available [online at MIT Press](https://data-feminism.mitpress.mit.edu/)
 * **Key documentation**: (1) [Markdown documentation on GitHub](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown); and (2) [The Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 ### Preparation
-1. Please read: D'lgnazio & Kline (2020), the Introduction and chapter 1.
+1. Please read: D'lgnazio & Klein (2020), the Introduction and chapter 1.
 1. Please read: Freeman & Ross (2019), chapters 1-4.
 1. Download and install [Atom](https://atom.io/).
 2. Download and install [Git](https://git-scm.com/).
@@ -81,12 +81,12 @@ In Part I, you will practice working with the command line.
 In Part II, you will create a report in Markdown.
 
 ### 1. Background
-Please spend **ten minutes** or more scanning all the chapters in D'lgnazio & Kline (2020). You will find many different types of data visualizations. Some types will be quite familiar to you - see, for example, the bar charts in chapter 6. Others might be new or unusual, such as the iceberg in chapter 7.
+Please spend **ten minutes** or more scanning all the chapters in D'lgnazio & Klein (2020). You will find many different types of data visualizations. Some types will be quite familiar to you - see, for example, the bar charts in chapter 6. Others might be new or unusual, such as the iceberg in chapter 7.
 
 ### 2 Find Two Data Visualizations on the Internet
 Browse the web and find two data visualizations that are **meaningful** to you. You might start, for example, at the [*New York Times*](http://nytimes.com) or [*Washington Post*](https://www.washingtonpost.com/) or other news source. That said, any scientific, cultural, government, or commercial institution website in the U.S. or beyond is just fine.
 
-As you consider possible data visualizations, consider the following questions, which come from  D'lgnazio & Kline (2020, chap. 1):
+As you consider possible data visualizations, consider the following questions, which come from  D'lgnazio & Klein (2020, chap. 1):
 1. **Who**: Who or what institution produced the visualization?
 1. **Date**: When was it produced?
 1. **Stakeholders**: Who is the audience for the visualization? And, who might be impacted, either directly or indirectly, by the visualization?
@@ -130,7 +130,7 @@ Third, for the primary data visualization, write short responses after each of t
 **Interests**: xxx ([a short paragraph, 50 words or less [1 point])
 **Key fact**: xxx (a short paragraph, 50 words or less [1 point])
 ```
-Forth, and finally, conclude your report with a brief reflection (about 100 words), titled, "Data Feminism: What I Learned?" In this section, first, give a definition of data feminism from D'lgnazio & Kline (2020) and, second, briefly discuss what you learned by doing this assignment [2 points])
+Forth, and finally, conclude your report with a brief reflection (about 100 words), titled, "Data Feminism: What I Learned?" In this section, first, give a definition of data feminism from D'lgnazio & Klein (2020) and, second, briefly discuss what you learned by doing this assignment [2 points])
 
 #### 3.4 Coding Requirements [14 points]
 In your report you **MUST** use at each of these elements at least once:

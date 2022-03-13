@@ -145,17 +145,3 @@ In your report you **MUST** use at each of these elements at least once:
   * Hypertext links to the websites that contain the primary and secondary data visualizations [2  points]
   * An emoji -- e.g., a rocket :rocket: -- in your reflective paragraph (Note: See emoji list: [cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)) [1 point]
   * Include a footnote [2 points]
-
-<!--
-## Part III: Data Science: Tool for Good or Weapon?
-A. Data science can be weapon, a tool that harms human beings. As we shall see, O'Neil (2016) presents a devastating critique of data science. We'll explore her arguments in some detail, but to start please answer these two questions from pages 1-14:
-  1. By quoting from O'Neil (2016), define "Weapon of Math Destruction" (30-50 words). [1 point for accurate quote; 1 point for introducing and clarifying the quotation]
-  2. Give an example of a WMD (30-50 words) [2 points for a complete example]
-
-B. Data science can also, of course, be a tool for good. It can, for example, be used to make discovers about our social and natural worlds. One recent discovery made possible by data science is found in the paper by Wang, Stanovsky, Weihs, & Etzioni (2019). Browse this paper (see below for link) but please note: We do not expect you to understand the full paper in detail. Now, answer this question:
-1. In your own words (a) what the the main research question; and (b) What did they find? (about 50 words) [1 point for (a); 1 point for (b)]
-
-**Submission requirements.** Please create a file, named `data_science.md`, located the root directory of your repository. Write your answers with markdown in that file. Please format your answers neatly. Once you are finished, add, commit, and push all changes to GitHub.
-
-Wang, L. L., Stanovsky, G., Weihs, L., & Etzioni, O. (2019). Gender trends in computer science authorship. CoRR, abs/1906.07883. Retrieved from http://arxiv.org/abs/1906.07883
--->

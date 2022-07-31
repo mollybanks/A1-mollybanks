@@ -3,7 +3,7 @@
 * **Freeman & Ross (2019)** Refers to the course textbook, written by Mike Freeman and Joel Ross, *Programming Skills for Data Science: Start Writing Code to Wrangle, Analyze, and Visualize Data with R*, 2019. The book is available [online through the library](https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=CP71294895890001451&context=L&vid=UW&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,programming%20skills%20for%20data%20science).
 * **D'lgnazio & Klein (2020)** Refers to the course textbook, written by Catherine D'lgnazio and Lauren F. Klein, Data Feminism, 2020. The book is available [online at MIT Press](https://data-feminism.mitpress.mit.edu/)
 * **Key documentation**:
-   1. [Markdown documentation on GitHub](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown);
+   1. [Markdown documentation on GitHub](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
    2. [The Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 ### Preparation
@@ -15,14 +15,6 @@
 3. Configure git on your computer.
 4. Download and install [R](https://cran.r-project.org/) (optional for this assignment but do it now).
 5. Download and install [RStudio](https://www.rstudio.com/) (optional for this assignment but do it now).
-
-<!--
-### Notes on grading
-* This assignment has **two parts** and is worth **34** points, as indicated in requirements below.
-* Partial points can be awarded.
-* All writing should be clear, concise, interesting, and free of spelling and grammatical errors.
-* **Please note:** This assignment should be completed _individually_.
--->
 
 ### Notes on Professional Practice
 1. **Get Started Early**. For any coding project, it is very important to get started earlier because unwelcome surprises often arise.

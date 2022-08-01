@@ -17,9 +17,9 @@
 5. Download and install [RStudio](https://www.rstudio.com/) (optional for this assignment but do it now).
 
 ### Notes on Professional Practice
-1. **Get Started Early**. For any coding project, it is very important to get started earlier because unwelcome surprises often arise.
-1. **Plan Your Work**. Before starting to design or code, read all of the requirements of this assignment, draw some sketches, and create a todo list of the steps you need to follow. It is almost always a good idea to do a bit of planning before starting to design or code.
-1. **Communicate with Your TA**. If you find a requirement of this assignment _ambiguous_, you should ask your Teaching Assistant or post a question on Teams. The requirements of this assignment are intended to be clear and _unambiguous_, but, in general, this is very difficult to achieve. If something is unclear, always reach out to your teaching assistant (or  project manager or team member).
+1. **Get Started Early**. For any coding project, it is very important to get started earlier because, even for expets, unwelcome surprises often arise.
+1. **Plan Your Work**. Before starting to design or code, read all of the requirements of this assignment, draw some sketches, and create a todo list of the steps you need to follow. It is always a good idea to do a bit of planning before starting to design or code.
+1. **Communicate with Your TA**. If you find a requirement of this assignment _ambiguous_, you should ask your Teaching Assistant or post a question on Teams. The requirements of this assignment are intended to be clear and _unambiguous_. If something is unclear, always reach out to your teaching assistant (or  project manager or team member).
 
 ### Learning Objectives
 1. Demonstrate how to navigate the file system from the command line and manage files, with these and similar commands (see F&R, chap. 2):
@@ -35,8 +35,15 @@ rm <PATH>            # remove a file or directory
 cp <PATH1> <PATH2>   # copy a file or directory
 cat <FILENAME>       # display the contents of a file
 ```
-2. Describe the purpose of git and GitHub (see Freeman & Ross, 2019, chap. 3).
-3. Demonstrate how to manage a project using git and GitHub, with these and similar commands (see Freeman & Ross, 2019, chap. 3):
+2. Set-up your directory structure for INFO-201. It should look like this, shown for a Machintosh OS: 
+```
+~/Documents/info201                  # Your root directory for INFO-201
+~/Documents/info201/assignments      # Your assignments will go here, in sub-directories 
+~/Documents/info201/data             # Your datasets will be saved in this directory 
+~/Documents/info20/practice          # Your weekly practice activities will go here, in sub-directories
+```
+4. Describe the purpose of git and GitHub (see Freeman & Ross, 2019, chap. 3).
+5. Demonstrate how to manage a project using git and GitHub, with these and similar commands (see Freeman & Ross, 2019, chap. 3):
 ```
 # Setting up basic identifying information
 git config --global user.name <YOUR FULL NAME>
@@ -46,7 +53,7 @@ git clone <REPO_URL>             # Copy a repo to your machine
 git status                       # Check the status of a repo
 git add <FILENAME>               # Add file to staging area
 git add .                        # Add all files in current directory to  staging area
-git git commit -m "<A MESSAGE>"  # Make changes s
+git git commit -m "<A MESSAGE>"  # Make changess
 git push
 ```
 4. Use markdown syntax to format document (see Freeman & Ross, 2019, chap. 4).

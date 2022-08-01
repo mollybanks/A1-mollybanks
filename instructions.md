@@ -24,16 +24,26 @@
 ### Learning Objectives
 1. Demonstrate how to navigate the file system from the command line and manage files, with these and similar commands (see F&R, chap. 2):
 ```
-pwd             # print working directory
-cd <PATH>       # change directory to <path>
-cd ..           # change to parent directory (go up)
-ls              # list files of current directory
-ls -las         # list files (show some details)
+pwd                                 # print working directory (to find your current location)
+cd <dir>                            # change to sub-directory
+cd ..                               # change to parent directory (go up)
+cd <PATH>                           # change directory to <path>
+cd ~                                # go to your home directory 
+cd ~/Documents/info201              # go to your INFO201 directory (the info201 directory must already exist)
+# 
+ls                                  # list files of current directory
+ls -las                             # list files (show some details)
 #
-mkdir <PATH>         # make a directory
-rm <PATH>            # remove a file or directory
-cp <PATH1> <PATH2>   # copy a file or directory
-cat <FILENAME>       # display the contents of a file
+mkdir <PATH>                        # make a directory
+rmdir <PATH>                        # remove a directory 
+#
+rm <PATH>                           # remove a file
+cp <PATH1> <PATH2>                  # copy a file 
+mv <PATH1> <PATH2>                  # move a file from one directory to another 
+#
+cat <FILENAME>                      # display the contents of a file
+#
+date                                # current time and date
 ```
 2. Set-up your directory structure for INFO-201. It should look like this (Mac OS):  
 ```
@@ -42,8 +52,8 @@ cat <FILENAME>       # display the contents of a file
 ~/Documents/info201/data             # Your datasets will be saved in this directory 
 ~/Documents/info20/practice          # Your weekly practice activities will go here, in sub-directories
 ```
-4. Describe the purpose of git and GitHub (see Freeman & Ross, 2019, chap. 3).
-5. Demonstrate how to manage a project using git and GitHub, with these and similar commands (see Freeman & Ross, 2019, chap. 3):
+3. Describe the purpose of git and GitHub (see Freeman & Ross, 2019, chap. 3).
+4. Demonstrate how to manage a project using git and GitHub, with these and similar commands (see Freeman & Ross, 2019, chap. 3):
 ```
 # Setting up basic identifying information
 git config --global user.name <YOUR FULL NAME>
@@ -56,15 +66,8 @@ git add .                        # Add all files in current directory to  stagin
 git git commit -m "<A MESSAGE>"  # Make changess
 git push
 ```
-4. Use markdown syntax to format document (see Freeman & Ross, 2019, chap. 4).
-5. Discuss _Data Feminism_ and explain how it provides a viewpoint for critically investigating data visualizations.
-
-<!--
-5. Consider how data science can be both a **tool** and a **weapon**.
-6. Professional practice: (a) Work closely with requirements; and (b) Reflect on the benefits/costs of planning before doing.
--->
-
-
+5. Use markdown syntax to format document (see Freeman & Ross, 2019, chap. 4).
+6. Discuss _Data Feminism_ and explain how it provides a viewpoint for critically investigating data visualizations.
 
 ## Part I: The Command Line [10 points]
 In Part I, you will practice working with the command line.

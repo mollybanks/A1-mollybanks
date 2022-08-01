@@ -35,7 +35,7 @@ rm <PATH>            # remove a file or directory
 cp <PATH1> <PATH2>   # copy a file or directory
 cat <FILENAME>       # display the contents of a file
 ```
-2. Set-up your directory structure for INFO-201. It should look like this, shown for a Machintosh OS: 
+2. Set-up your directory structure for INFO-201. It should look like this (Mac OS):  
 ```
 ~/Documents/info201                  # Your root directory for INFO-201
 ~/Documents/info201/assignments      # Your assignments will go here, in sub-directories 

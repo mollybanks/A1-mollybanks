@@ -69,7 +69,7 @@ git push
 5. Use markdown syntax to format document (see Freeman & Ross, 2019, chap. 4).
 6. Discuss _Data Feminism_ and explain how it provides a viewpoint for critically investigating data visualizations.
 
-## Part I: The Command Line [10 points]
+## Part I: The Command Line [tasks to complete]
 In Part I, you will practice working with the command line.
 
 **Step #1**: In your directory, you will find a file named ``git-commands.md``. Open the file with Atom, which is our text editor.
@@ -80,7 +80,7 @@ In Part I, you will practice working with the command line.
 
 **Note**: After completing this assignment, you can continue to add commands to this file and use it as a reference for your own work.
 
-## Part II: Working with Markdown [35 points]
+## Part II: Working with Markdown [xxx tasks to complete ]
 
 In Part II, you will create a report in Markdown.
 
@@ -88,7 +88,9 @@ In Part II, you will create a report in Markdown.
 Please spend **ten minutes** or more scanning all the chapters in D'lgnazio & Klein (2020). You will find many different types of data visualizations. Some types will be quite familiar to you - see, for example, the bar charts in chapter 6. Others might be new or unusual, such as the iceberg in chapter 7.
 
 ### 2 Find Two Data Visualizations on the Internet
-Browse the web and find two data visualizations that are **meaningful** to you. You might start, for example, at the [*New York Times*](http://nytimes.com) or [*Washington Post*](https://www.washingtonpost.com/) or other news source. That said, any scientific, cultural, government, or commercial institution website in the U.S. or beyond is just fine.
+Browse the web and find a data visualization that is **meaningful** to you. You might start, for example, at the [*New York Times*](http://nytimes.com) or [*Washington Post*](https://www.washingtonpost.com/) or other news source. Or, you might browse a scientific or cultural journal or website.  You should chose a visualization that was created for a specific purpose and that is credible. 
+
+Best practice: Try to find several visualizations that are appealing to you.  Then, examine each one careful and select the one that is most **meaningful** to you.
 
 As you consider possible data visualizations, consider the following questions, which come from  D'lgnazio & Klein (2020, chap. 1):
 1. **Who**: Who or what institution produced the visualization?
@@ -98,54 +100,52 @@ As you consider possible data visualizations, consider the following questions, 
 1. **Key facts**: What can be learned from the visualization?
 1. **Power**: What issues, if any, are related to power are reflected in the data visualization?
 
-**Note**: It may be difficult to answer these questions. That's okay; nevertheless, try as best as you can to formulate specific answers.
-
-Once you have examined your two visualizations from a **Data Feminism** viewpoint, you need to select **one** of them as primary; the other visualization will be secondary. Now, you are ready to start coding (see next section).
+**Note**: It may be difficult to answer these questions. That's okay. Nevertheless, try as best as you can to formulate specific answers.
 
 ### 3 Coding: Your Technical Requirements
 
 Your objective is to create a report that presents your research and analysis. You will write your report using Markdown, which is a computer language for formatting text.
 
-As you code with Markdown tags, please seek to create a professional visual appearance.
+As you code with Markdown tags, please seek to create a professional visual appearance (see the INFO-201 Style Guide).
 
-#### 3.1 Overall Requirements [3 points]
-1. Include a title. [1 point]
-1. Include your name. (you are the author of the report) [1 point]
-1. Include the date of your report. [1 point]
+#### 3.1 Overall Requirements [Three tasks to complete]
+1. Include a title.  Your title should be distinctive and it should summarize the entire report. Please do *not* create a title "A1: Tools" or something like that; instead, be clear and creative.  [complete:  ]
+3. Include your name and your UW e-mail address. (You are the author of the report.) [complete:  ]
+4. Include the date (for exmaple, Autumn 2022) of your report. [complete:  ]
 
-#### 3.2 Filenames and Directory Requirements [5 points]
-1. The name of the file containing your report should be ``README.md``. [1 point]
-1. The ``README.md`` file containing your report should be located in the root directory of the repository. [1 point]
-1. Create a new directory, named "a0-visualizations", within the "Images" directory. [1 point]
-1. Put both your primary and secondary visualizations into this directory. [2 points]
+#### 3.2 Filenames and Directory Requirements [Four tasks to complete]
+1. The name of the file containing your report should be ``README.md``. [complete:   ]
+1. The ``README.md`` file containing your report should be located in the root directory of the repository. [complete:   ]
+1. Create a new directory, named "a0-visualizations", within the "Images" directory. [complete:  ]
+1. Put both your visualization into this directory. [complete:  ]
 
-#### 3.3 Your Report: What to include? [13 points]
+#### 3.3 Your Report: What to include?
 
-First, your report should include a brief paragraph that summarizes what you did in your own words (about 100 words). In this paragraph you should name and link to both the **primary** and **secondary** data visualizations.  [5 points]
+First, in your own words, you should include a brief paragraph that summarizes what you did to find your visualization and you should explain why you selected the visulization. In addition, you should include a link to your visualization. (About 100 words.) [complete: 
 
-Second, for the primary data visualization, your report should include a description - that is, what specifically does the data visualization show? (about 100 words) [1 point]
+Second, your report should include a description of the vizualization; that is, what specifically does the data visualization show? (About 100 words.) [complete:  ]
 
-Third, for the primary data visualization, write short responses after each of the headings, shown below. **Please note**: You should replace the `xxx (...)` with your own written response.
+Third, write short responses after each of these five headings. **Please note**: You should replace the `xxx (...)` with your own written response.
 
 ```
-**Who**: xxx (20 words or less [1 point])
-**Date**: xxx (a year (e.g, 2021) or more specific date about when the visualization was published [1 point])
-**Stakeholders**: xxx (a short paragraph, 50 words or less [1 point])
-**Interests**: xxx ([a short paragraph, 50 words or less [1 point])
-**Key fact**: xxx (a short paragraph, 50 words or less [1 point])
+**Who**: xxx (About 20 words [complete:  ])
+**Date**: xxx (a year (e.g, 2021) or more specific date about when the visualization was published [complete:  ])
+**Stakeholders**: xxx (About 50 words [complete:  ])
+**Interests**: xxx (About 50 words [complete: ])
+**Key fact**: xxx (About 50 words [complete:  ])
 ```
-Forth, and finally, conclude your report with a brief reflection (about 100 words), titled, "Data Feminism: What I Learned?" In this section, first, give a definition of data feminism from D'lgnazio & Klein (2020) and, second, briefly discuss what you learned by doing this assignment [2 points])
+Forth, and finally, conclude your report with a brief reflection, titled, "Data Feminism: What I Learned?" (About 100 words). In this section, first, give a definition of data feminism from D'lgnazio & Klein (2020) and, second, briefly discuss what you learned by doing this assignment [complete: ])
 
-#### 3.4 Coding Requirements [14 points]
+#### 3.4 Coding Requirements [Eleven tasks to complete]
 In your report you **MUST** use at each of these elements at least once:
-  * A top-level heading (``Header1``) [1 point]
-  * Three or more smaller headings (e.g., ``Header2``) [ 1 point]
-  * An unordered list [1 point]
-  * **Bold** for emphasis [1 point]
-  * _Italics_ for emphasis [1 point]
-  * Both ***Bold and Italics*** for emphasis [1 point]
-  * An image tag to present the primary data visualization. Include the `ALT` tag and descriptive text for screen reader accessibility. (Note: See section 2.3 above) [2 points]
-  * A blockquote to format the definition of "Data Feminism" [1 point]
-  * Hypertext links to the websites that contain the primary and secondary data visualizations [2  points]
-  * An emoji -- e.g., a rocket :rocket: -- in your reflective paragraph (Note: See emoji list: [cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)) [1 point]
-  * Include a footnote [2 points]
+  * A top-level heading (``Heading 1``) [complete  ]
+  * Three or more subheadings (e.g., ``Heading 2 ``) [complete  ]
+  * An unordered list [complete  ]
+  * **Bold** for emphasis [complete  ]
+  * _Italics_ for emphasis [complete  ]
+  * Both ***Bold and Italics*** for emphasis [complete  ]
+  * An image tag to present the data visualization. Include the `ALT` tag and descriptive text for screen reader accessibility. (Note: See section 2.3 above) [complete  ]
+  * A blockquote to format the definition of "Data Feminism" [complete  ]
+  * Hypertext link to the website for data visualizations [complete  ]
+  * An emoji -- e.g., a rocket :rocket: -- in your reflective paragraph (Note: See emoji list: [cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)) [complete  ]
+  * Include one footnote [comoplete ]

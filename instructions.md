@@ -149,4 +149,4 @@ In your report you **MUST** use at each of these elements at least once:
   * A blockquote to format the definition of "Data Feminism" [complete  ]
   * Hypertext link to the website for data visualizations [complete  ]
   * An emoji -- e.g., a rocket :rocket: -- in your reflective paragraph (Note: See emoji list: [cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)) [complete  ]
-  * Include one footnote [comoplete ]
+  * Include one footnote [complete ]

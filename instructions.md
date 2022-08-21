@@ -120,13 +120,13 @@ As you code with Markdown tags, please seek to create a professional visual appe
 1. Create a new directory, named "A1-visualizations", within the "Images" directory. [complete:  ]
 1. Put your data visulization into this directory. [complete:  ]
 
-#### 3.3 Your Report: What to include?
+#### 3.3 Your Report: What to include? [Four tasks to complete]
 
 First, in your own words, you should include a brief paragraph that summarizes what you did to find your data visualization and you should explain why you selected the visualization. In addition, you should include a link to your visualization. (About 100 words.) [complete: ]
 
 Second, your report should include a description of the vizualization; that is, what specifically does the data visualization show? (About 100 words.) [complete:  ]
 
-Third, write short responses after each of these five headings. **Please note**: You should replace the `xxx (...)` with your own written response.
+Third, write short responses after each of these five headings. **Please note**: You should replace the `xxx (...)` with your own written response. [complete: ]
 
 ```
 **Who**: xxx (About 20 words [complete:  ])

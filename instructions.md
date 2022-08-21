@@ -35,11 +35,11 @@ ls                                  # list files of current directory
 ls -las                             # list files (show some details)
 #
 mkdir <PATH>                        # make a directory
-rmdir <PATH>                        # remove a directory 
+rmdir <PATH>                        # remove a directory (use with care!)
 #
-rm <PATH>                           # remove a file
+rm <PATH>                           # remove a file or directory (use with care!)
 cp <PATH1> <PATH2>                  # copy a file 
-mv <PATH1> <PATH2>                  # move a file from one directory to another 
+mv <PATH1> <PATH2>                  # move a file from one directory to another or rename a file or directory
 #
 less <FILENAME>                     # display the contents of a file (scroll with arrow keys; type 'q' to quit)
 cat <FILENAME>                      # display the contents of a file to the terminal
@@ -51,7 +51,7 @@ date                                # current time and date
 ~/Documents/info201                  # Your root directory for INFO-201
 ~/Documents/info201/assignments      # Your assignments will go here, in sub-directories 
 ~/Documents/info201/data             # Your datasets will be saved in this directory 
-~/Documents/info20/practice          # Your weekly practice activities will go here, in sub-directories
+~/Documents/info20/exercises         # Your weekly practice activities will go here, in sub-directories
 ```
 3. Describe the purpose of git and GitHub (see Freeman & Ross, 2019, chap. 3).
 4. Demonstrate how to manage a project using git and GitHub, with these and similar commands (see Freeman & Ross, 2019, chap. 3):
@@ -88,10 +88,10 @@ In Part II, you will create a report in Markdown.
 ### 1. Background
 Please spend **ten minutes** or more scanning all the chapters in D'lgnazio & Klein (2020). You will find many different types of data visualizations. Some types will be quite familiar to you - see, for example, the bar charts in chapter 6. Others might be new or unusual, such as the iceberg in chapter 7.
 
-### 2 Find Two Data Visualizations on the Internet
+### 2 Find A Data Visualization on the Internet
 Browse the web and find a data visualization that is **meaningful** to you. You might start, for example, at the [*New York Times*](http://nytimes.com) or [*Washington Post*](https://www.washingtonpost.com/) or other news source. Or, you might browse a scientific or cultural journal or website.  You should choose a visualization that was created for a specific purpose and that is credible. 
 
-Best practice: Try to find several visualizations that are appealing to you. Then, examine each one careful and select the one that is most **meaningful** to you.
+Best practice: Find several visualizations (3-5) that are appealing to you. Then, examine each one carefully and select the one that is most **meaningful** to you.
 
 As you consider possible data visualizations, consider the following questions, which come from  D'lgnazio & Klein (2020, chap. 1):
 1. **Who**: Who or what institution produced the visualization?
@@ -107,22 +107,22 @@ As you consider possible data visualizations, consider the following questions, 
 
 Your objective is to create a report that presents your research and analysis. You will write your report using Markdown, which is a computer language for formatting text.
 
-As you code with Markdown tags, please seek to create a professional visual appearance (see the INFO-201 Style Guide).
+As you code with Markdown tags, please seek to create a professional visual appearance.
 
 #### 3.1 Overall Requirements [Three tasks to complete]
-1. Include a title.  Your title should be distinctive and it should summarize the entire report. Please do *not* create a title "A1: Tools" or something like that; instead, be clear and creative.  [complete:  ]
+1. Include a title.  Your title should be distinctive and it should summarize the entire report. Please do *not* create a title "A1: Tools" or something like that; instead, be concise, clear and creative.  [complete:  ]
 3. Include your name and your UW e-mail address. (You are the author of the report.) [complete:  ]
 4. Include the date (for exmaple, Autumn 2022) of your report. [complete:  ]
 
 #### 3.2 Filenames and Directory Requirements [Four tasks to complete]
 1. The name of the file containing your report should be ``README.md``. [complete:   ]
 1. The ``README.md`` file containing your report should be located in the root directory of the repository. [complete:   ]
-1. Create a new directory, named "a0-visualizations", within the "Images" directory. [complete:  ]
-1. Put both your visualization into this directory. [complete:  ]
+1. Create a new directory, named "A1-visualizations", within the "Images" directory. [complete:  ]
+1. Put your data visulization into this directory. [complete:  ]
 
 #### 3.3 Your Report: What to include?
 
-First, in your own words, you should include a brief paragraph that summarizes what you did to find your data visualization and you should explain why you selected the visulization. In addition, you should include a link to your visualization. (About 100 words.) [complete: ]
+First, in your own words, you should include a brief paragraph that summarizes what you did to find your data visualization and you should explain why you selected the visualization. In addition, you should include a link to your visualization. (About 100 words.) [complete: ]
 
 Second, your report should include a description of the vizualization; that is, what specifically does the data visualization show? (About 100 words.) [complete:  ]
 

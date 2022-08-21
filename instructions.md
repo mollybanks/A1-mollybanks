@@ -25,21 +25,21 @@
 1. Demonstrate how to navigate the file system from the command line and manage files, with these and similar commands (see F&R, chap. 2):
 ```
 pwd                                 # print working directory (to find your current location)
-cd <dir>                            # change to sub-directory
-cd ..                               # change to parent directory (go up)
-cd <PATH>                           # change directory to <path>
+cd <dir>                            # change the working directory to sub-directory
+cd ..                               # go to parent directory (go up)
+cd <PATH>                           # go to directory specified in <path>
 cd ~                                # go to your home directory 
 cd ~/Documents/info201              # go to your INFO201 directory (the info201 directory must already exist)
 # 
 ls                                  # list files of current directory
-ls -las                             # list files (show some details)
+ls -las                             # list files (show some details about the files with the flags -las)
 #
-mkdir <PATH>                        # make a directory
+mkdir <PATH>                        # make a new directory
 rmdir <PATH>                        # remove a directory (use with care!)
 #
-rm <PATH>                           # remove a file or directory (use with care!)
 cp <PATH1> <PATH2>                  # copy a file 
 mv <PATH1> <PATH2>                  # move a file from one directory to another or rename a file or directory
+rm <PATH>                           # remove a file or directory (use with care!)
 #
 less <FILENAME>                     # display the contents of a file (scroll with arrow keys; type 'q' to quit)
 cat <FILENAME>                      # display the contents of a file to the terminal

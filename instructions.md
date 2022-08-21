@@ -7,7 +7,7 @@
    2. [The Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 ### Preparation
-1. Read: D'lgnazio & Klein (2020), the Introduction and chapter 1.
+1. Read: D'lgnazio & Klein (2020), the Introduction (pp. 1-19).
 1. Read: Freeman & Ross (2019), chapters 1-4.
 1. Download and install [Atom](https://atom.io/).
 2. Download and install [Git](https://git-scm.com/).
@@ -41,7 +41,8 @@ rm <PATH>                           # remove a file
 cp <PATH1> <PATH2>                  # copy a file 
 mv <PATH1> <PATH2>                  # move a file from one directory to another 
 #
-cat <FILENAME>                      # display the contents of a file
+less <FILENAME>                     # display the contents of a file (scroll with arrow keys; type 'q' to quit)
+cat <FILENAME>                      # display the contents of a file to the terminal
 #
 date                                # current time and date
 ```
@@ -69,7 +70,7 @@ git push
 5. Use markdown syntax to format document (see Freeman & Ross, 2019, chap. 4).
 6. Discuss _Data Feminism_ and explain how it provides a viewpoint for critically investigating data visualizations.
 
-## Part I: The Command Line [tasks to complete]
+## Part I: The Command Line
 In Part I, you will practice working with the command line.
 
 **Step #1**: In your directory, you will find a file named ``git-commands.md``. Open the file with Atom, which is our text editor.
@@ -80,7 +81,7 @@ In Part I, you will practice working with the command line.
 
 **Note**: After completing this assignment, you can continue to add commands to this file and use it as a reference for your own work.
 
-## Part II: Working with Markdown [xxx tasks to complete ]
+## Part II: Working with Markdown
 
 In Part II, you will create a report in Markdown.
 
@@ -88,9 +89,9 @@ In Part II, you will create a report in Markdown.
 Please spend **ten minutes** or more scanning all the chapters in D'lgnazio & Klein (2020). You will find many different types of data visualizations. Some types will be quite familiar to you - see, for example, the bar charts in chapter 6. Others might be new or unusual, such as the iceberg in chapter 7.
 
 ### 2 Find Two Data Visualizations on the Internet
-Browse the web and find a data visualization that is **meaningful** to you. You might start, for example, at the [*New York Times*](http://nytimes.com) or [*Washington Post*](https://www.washingtonpost.com/) or other news source. Or, you might browse a scientific or cultural journal or website.  You should chose a visualization that was created for a specific purpose and that is credible. 
+Browse the web and find a data visualization that is **meaningful** to you. You might start, for example, at the [*New York Times*](http://nytimes.com) or [*Washington Post*](https://www.washingtonpost.com/) or other news source. Or, you might browse a scientific or cultural journal or website.  You should choose a visualization that was created for a specific purpose and that is credible. 
 
-Best practice: Try to find several visualizations that are appealing to you.  Then, examine each one careful and select the one that is most **meaningful** to you.
+Best practice: Try to find several visualizations that are appealing to you. Then, examine each one careful and select the one that is most **meaningful** to you.
 
 As you consider possible data visualizations, consider the following questions, which come from  D'lgnazio & Klein (2020, chap. 1):
 1. **Who**: Who or what institution produced the visualization?
@@ -121,7 +122,7 @@ As you code with Markdown tags, please seek to create a professional visual appe
 
 #### 3.3 Your Report: What to include?
 
-First, in your own words, you should include a brief paragraph that summarizes what you did to find your visualization and you should explain why you selected the visulization. In addition, you should include a link to your visualization. (About 100 words.) [complete: 
+First, in your own words, you should include a brief paragraph that summarizes what you did to find your data visualization and you should explain why you selected the visulization. In addition, you should include a link to your visualization. (About 100 words.) [complete: ]
 
 Second, your report should include a description of the vizualization; that is, what specifically does the data visualization show? (About 100 words.) [complete:  ]
 
@@ -134,7 +135,7 @@ Third, write short responses after each of these five headings. **Please note**:
 **Interests**: xxx (About 50 words [complete: ])
 **Key fact**: xxx (About 50 words [complete:  ])
 ```
-Forth, and finally, conclude your report with a brief reflection, titled, "Data Feminism: What I Learned?" (About 100 words). In this section, first, give a definition of data feminism from D'lgnazio & Klein (2020) and, second, briefly discuss what you learned by doing this assignment [complete: ])
+Forth, and finally, conclude your report with a brief reflection, titled, "Data Feminism: What I Learned?" (About 120 words). In this section, first, give a definition of data feminism from D'lgnazio & Klein (2020). Include the page number of the defintion. Second, given this defintion and your reading, briefly discuss one or two issues related your choosen data visualization. [complete: ])
 
 #### 3.4 Coding Requirements [Eleven tasks to complete]
 In your report you **MUST** use at each of these elements at least once:

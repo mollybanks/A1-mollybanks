@@ -94,6 +94,7 @@ Browse the web and find a data visualization that is **meaningful** to you. You 
 Best practice: Find several visualizations (3-5) that are appealing to you. Then, examine each one carefully and select the one that is most **meaningful** to you.
 
 As you consider possible data visualizations, consider the following questions, which come from  D'lgnazio & Klein (2020, chap. 1):
+
 1. **Who**: Who or what institution produced the visualization?
 1. **Date**: When was it produced?
 1. **Stakeholders**: Who is the audience for the visualization? And, who might be impacted, either directly or indirectly, by the visualization?
@@ -118,7 +119,7 @@ As you code with Markdown tags, please seek to create a professional visual appe
 1. The name of the file containing your report should be ``README.md``. [complete:   ]
 1. The ``README.md`` file containing your report should be located in the root directory of the repository. [complete:   ]
 1. Create a new directory, named "A1-visualizations", within the "Images" directory. [complete:  ]
-1. Put your data visulization into this directory. [complete:  ]
+1. Save your data visualization imaged in the "A1-visualizations" folder. [complete:  ]
 
 #### 3.3 Your Report: What to include? [Four tasks to complete]
 
@@ -137,8 +138,9 @@ Third, write short responses after each of these five headings. **Please note**:
 ```
 Forth, and finally, conclude your report with a brief reflection, titled, "Data Feminism: What I Learned?" (About 120 words). In this section, first, give a definition of data feminism from D'lgnazio & Klein (2020). Include the page number of the defintion. Second, given this defintion and your reading, briefly discuss one or two issues related your choosen data visualization. [complete: ])
 
-#### 3.4 Coding Requirements [Eleven tasks to complete]
+#### 3.4 Coding Requirements [Ten tasks to complete]
 In your report you **MUST** use at each of these elements at least once:
+
   * A top-level heading (``Heading 1``) [complete  ]
   * Three or more subheadings (e.g., ``Heading 2 ``) [complete  ]
   * An unordered list [complete  ]
@@ -149,4 +151,3 @@ In your report you **MUST** use at each of these elements at least once:
   * A blockquote to format the definition of "Data Feminism" [complete  ]
   * Hypertext link to the website for data visualizations [complete  ]
   * An emoji -- e.g., a rocket :rocket: -- in your reflective paragraph (Note: See emoji list: [cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)) [complete  ]
-  * Include one footnote [complete ]

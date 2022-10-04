@@ -14,9 +14,9 @@ ls
 # (3) Change your directory to your info201 root directory.  This should be `~/Documents/info201`. [complete: YES ]
 cd ../..
 # (4) Use the git command `clone` to clone your A1 assignment repository from GitHub to your `assignments` directory [complete: YES ]
-git clone 
-# (5) Using a *relative path*, change your directory to inside the repository you just cloned [complete:  ]
-
+git clone https://github.com/mollybanks/A1-mollybanks.git
+# (5) Using a *relative path*, change your directory to inside the repository you just cloned [complete: YES ]
+cd A1-mollybanks
 # (6) Find the file "covid-example-2" with 'cd' commands. What is the *absolute path* to this file? [complete: YES ]
 /Users/mollybanks/Documents/info201/assignments/A1-mollybanks/images/COVID-19-Visualizations/covid-example-2.png
 # (7) Use the git command `add` to add all of your changes that you've made to this and other files (if any) [complete: YES ]

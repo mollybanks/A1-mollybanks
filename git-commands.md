@@ -1,6 +1,9 @@
+
 # A1: Basic Tools: Part I: Command Line [9 tasks to complete]
 
 The purpose of this file is for you to demonstrate your knowledge of working with the terminal. Following each prompt below, write the line of code that you used on the terminal to accomplish the task.
+
+# Are you able to see this version? Thanks, Molly
 
 ```bash
 # (1) Print your working directory [complete: YES]
